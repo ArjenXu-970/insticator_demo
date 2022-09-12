@@ -1,5 +1,6 @@
 This is full stack project
-first there's a main page, which user need to input their ID to get their info, in order to start the questionnaire.  
+first there's a main page, which user need to input their ID to get their info, in order to start the questionnaire. 
+I use spring boot to design the backend, and use Node Js react to design the front end.
 
 also there's a database for record the users information  
 
